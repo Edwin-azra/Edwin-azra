@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
-</div>
-
 <br/>
 
 - 🌱 My name is Edwin,  welcome to my GitHub home page
